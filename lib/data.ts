@@ -44,22 +44,22 @@ export const experiencesData = [
     description:
       "I'm now working with the following stack: React, Nodejs, Laravel and Docker to build microservices. I'm open to full-time opportunities.",
     icon: React.createElement(FaReact),
-    date: "2022 - present",
+    date: "2023 - present",
   },
 
   {
     title: "Fullstack Developer",
-    location: "FCT, Nigeria",
+    location: "Ullwebs, FCT, Nigeria",
     description:
-      "I worked as a fullstack developer for a year under contract. I also upskilled to by  learning Laravel",
+      "I worked as a fullstack developer for a year under contract. I also upskilled to by  learning React Native",
     icon: React.createElement(CgWorkAlt),
-    date: "2022",
+    date: "2023",
   },
   {
-    title: "Freelancer Web Developer",
-    location: "FCT, Nigeria",
+    title: "Software Developer",
+    location: "Swaptify Solutions ltd, FCT, Nigeria",
     description:
-      "Designed and developed websites based on client requirements as a freelancer.",
+      "Designed and developed websites based on client requirements. I also learnt using laravel, react here",
     icon: React.createElement(LuGraduationCap),
     date: "2020 - 2022",
   }
